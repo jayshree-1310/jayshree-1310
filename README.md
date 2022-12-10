@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @jayshree-1310
-- 👀 I’m interested in coding and learning
-- 🌱 I’m currently learning computer science and engineering
+Objective: To become a successful expert in the field of Information
+Technology by channelizing my technical knowledge and skills to
+ensure personal and professional growth and to contribute to the
+prosperity of the organization.
+
 
 <!---
 jayshree-1310/jayshree-1310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
